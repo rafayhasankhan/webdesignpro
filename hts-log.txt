@@ -1,0 +1,1218 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 12 Jan 2022 02:19:35 at https://anerdsworld.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -WC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://anerdsworld.com/ -O1 "C:\My Web Sites\webdesignpro-new" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:24:55	Warning: 	unexpected incomplete type with 200 code at https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:25:38	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:25:38	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:25:56	Error: 	"Bad Request" (400) at link https://anerdsworld.com/wp-admin/admin-ajax.php (from https://anerdsworld.com/)
+02:25:56	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://anerdsworld.com/)
+02:25:57	Warning: 	Moved Permanently for s.w.org/
+02:25:57	Warning: 	File has moved from s.w.org/ to https://wordpress.org/
+02:26:11	Error: 	Duplicate entry in hts_wait_delayed() cancelled: www.w3.org/2000/svg -> C:/My Web Sites/webdesignpro-new/www.w3.org/2000/svg.9c.delayed
+02:26:11	Warning: 	link is probably looping, type unknown, aborting: www.w3.org/2000/svg
+02:27:25	Warning: 	Retry after error -4 (Incorrect length (360065 Bytes, 406593 expected)) at link https://anerdsworld.com/wp-content/uploads/2015/06/sean-photography.jpg (from https://anerdsworld.com/)
+02:27:26	Warning: 	Warning: store text/html without scan: C:/My Web Sites/webdesignpro-new/to.getnitropack.com/index.html
+02:28:03	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:28:03	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:28:26	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:28:26	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:28:34	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:28:34	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:28:40	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:28:40	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:28:47	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:28:47	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:34:35	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:34:35	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:34:44	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:34:44	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:34:44	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:34:44	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:34:46	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:34:46	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:34:53	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:34:53	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:35:05	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:35:05	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:35:08	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:35:08	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:35:13	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:35:13	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:35:15	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:35:15	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:35:24	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:35:24	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:35:27	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:35:27	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:35:31	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:35:31	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:35:51	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:35:51	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:35:58	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:35:58	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:35:59	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:35:59	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:36:06	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:36:06	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:36:07	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:36:07	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:36:14	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:36:14	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:36:34	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:36:34	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:36:49	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:36:49	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:38:11	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:38:11	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:38:35	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:38:35	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:38:36	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:38:36	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:38:37	Warning: 	Moved Permanently for www.instagram.com/anerdsworld/
+02:38:37	Warning: 	Redirected link is identical because of 'URL Hack' option: www.instagram.com/anerdsworld/ and https://www.instagram.com/anerdsworld/
+02:38:37	Warning: 	File has moved from www.instagram.com/anerdsworld/ to https://www.instagram.com/anerdsworld/
+02:38:38	Warning: 	File not parsed, looks like binary: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:38:38	Warning: 	Moved Permanently for formcraft-wp.com/robots.txt
+02:38:38	Warning: 	Redirected link is identical because of 'URL Hack' option: formcraft-wp.com/robots.txt and https://formcraft-wp.com/robots.txt
+02:38:38	Warning: 	Warning moved treated for formcraft-wp.com/robots.txt (real one is https://formcraft-wp.com/robots.txt)
+02:38:38	Warning: 	Moved Permanently for formcraft-wp.com/?source=pb
+02:38:38	Warning: 	Redirected link is identical because of 'URL Hack' option: formcraft-wp.com/?source=pb and https://formcraft-wp.com/?source=pb
+02:38:38	Warning: 	File has moved from formcraft-wp.com/?source=pb to https://formcraft-wp.com/?source=pb
+02:38:46	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:38:46	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:38:46	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:38:46	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:38:54	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:38:54	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:38:54	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:38:54	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:38:58	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:38:58	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:38:58	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:38:58	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:39:14	Warning: 	Moved Permanently for https://anerdsworld.com/seo-draft/
+02:39:14	Warning: 	File has moved from https://anerdsworld.com/seo-draft/ to https://anerdsworld.com
+02:39:15	Warning: 	File not parsed, looks like binary: www.w3.org/2000/svg
+02:39:15	Error: 	Duplicate entry in hts_wait_delayed() cancelled: www.w3.org/2000/svg -> C:/My Web Sites/webdesignpro-new/www.w3.org/2000/svg.9c.delayed
+02:39:15	Warning: 	link is probably looping, type unknown, aborting: www.w3.org/2000/svg
+02:39:15	Error: 	Duplicate entry in hts_wait_delayed() cancelled: www.w3.org/2000/svg -> C:/My Web Sites/webdesignpro-new/www.w3.org/2000/svg.9c.delayed
+02:39:15	Warning: 	link is probably looping, type unknown, aborting: www.w3.org/2000/svg
+02:39:15	Error: 	Duplicate entry in hts_wait_delayed() cancelled: www.w3.org/2000/svg -> C:/My Web Sites/webdesignpro-new/www.w3.org/2000/svg.9c.delayed
+02:39:15	Warning: 	link is probably looping, type unknown, aborting: www.w3.org/2000/svg
+02:39:15	Error: 	Duplicate entry in hts_wait_delayed() cancelled: www.w3.org/2000/svg -> C:/My Web Sites/webdesignpro-new/www.w3.org/2000/svg.9c.delayed
+02:39:15	Warning: 	link is probably looping, type unknown, aborting: www.w3.org/2000/svg
+02:39:16	Error: 	Duplicate entry in hts_wait_delayed() cancelled: www.w3.org/2000/svg -> C:/My Web Sites/webdesignpro-new/www.w3.org/2000/svg.9c.delayed
+02:39:16	Warning: 	link is probably looping, type unknown, aborting: www.w3.org/2000/svg
+02:39:16	Warning: 	Moved Temporarily for https://cdn-bdlah.nitrocdn.com/
+02:39:16	Warning: 	File has moved from https://cdn-bdlah.nitrocdn.com/ to https://nitropack.io/
+02:39:16	Error: 	Duplicate entry in hts_wait_delayed() cancelled: www.w3.org/2000/svg -> C:/My Web Sites/webdesignpro-new/www.w3.org/2000/svg.9c.delayed
+02:39:16	Warning: 	link is probably looping, type unknown, aborting: www.w3.org/2000/svg
+02:39:17	Warning: 	Moved Permanently for https://anerdsworld.com/?p=24473
+02:39:17	Warning: 	File has moved from https://anerdsworld.com/?p=24473 to https://anerdsworld.com
+02:39:17	Error: 	Duplicate entry in hts_wait_delayed() cancelled: www.w3.org/2000/svg -> C:/My Web Sites/webdesignpro-new/www.w3.org/2000/svg.9c.delayed
+02:39:17	Warning: 	link is probably looping, type unknown, aborting: www.w3.org/2000/svg
+02:39:17	Error: 	Duplicate entry in hts_wait_delayed() cancelled: www.w3.org/2000/svg -> C:/My Web Sites/webdesignpro-new/www.w3.org/2000/svg.9c.delayed
+02:39:17	Warning: 	link is probably looping, type unknown, aborting: www.w3.org/2000/svg
+02:40:13	Warning: 	Moved Permanently for https://anerdsworld.com/?p=27572
+02:40:13	Warning: 	File has moved from https://anerdsworld.com/?p=27572 to https://anerdsworld.com
+02:40:19	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:40:19	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:40:32	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:40:32	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:40:37	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:40:37	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:40:37	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:40:37	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:40:37	Warning: 	Moved Permanently for https://anerdsworld.com/?p=24197
+02:40:37	Warning: 	File has moved from https://anerdsworld.com/?p=24197 to https://anerdsworld.com
+02:40:43	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:40:43	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:40:43	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:40:43	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:40:49	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:40:49	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:40:49	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:40:49	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:40:55	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:40:55	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:40:55	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:40:55	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:41:01	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:41:01	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:41:01	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:41:01	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:41:07	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:41:07	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:41:07	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:41:07	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:41:14	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:41:14	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:41:14	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:41:14	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:41:19	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:41:19	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:41:19	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:41:19	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:41:25	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:41:25	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:41:26	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:41:26	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:41:27	Warning: 	Moved Permanently for https://anerdsworld.com/?p=16881
+02:41:27	Warning: 	File has moved from https://anerdsworld.com/?p=16881 to https://anerdsworld.com
+02:41:27	Warning: 	Moved Permanently for https://anerdsworld.com/?p=20760
+02:41:27	Warning: 	File has moved from https://anerdsworld.com/?p=20760 to https://anerdsworld.com
+02:41:27	Warning: 	Moved Permanently for https://anerdsworld.com/toronto-search-engine-optimization/
+02:41:27	Warning: 	File has moved from https://anerdsworld.com/toronto-search-engine-optimization/ to https://anerdsworld.com
+02:41:27	Warning: 	Moved Permanently for https://anerdsworld.com/?p=30478
+02:41:27	Warning: 	File has moved from https://anerdsworld.com/?p=30478 to https://anerdsworld.com
+02:41:27	Warning: 	Moved Permanently for https://anerdsworld.com/?p=31904
+02:41:27	Warning: 	File has moved from https://anerdsworld.com/?p=31904 to https://anerdsworld.com
+02:41:36	Warning: 	Moved Permanently for https://anerdsworld.com/?p=28543
+02:41:36	Warning: 	File has moved from https://anerdsworld.com/?p=28543 to https://anerdsworld.com
+02:41:38	Warning: 	Moved Permanently for https://anerdsworld.com/?p=29576
+02:41:38	Warning: 	File has moved from https://anerdsworld.com/?p=29576 to https://anerdsworld.com
+02:41:41	Warning: 	Moved Permanently for https://anerdsworld.com/?p=31058
+02:41:41	Warning: 	File has moved from https://anerdsworld.com/?p=31058 to https://anerdsworld.com
+02:41:41	Warning: 	Moved Permanently for https://anerdsworld.com/?p=30904
+02:41:41	Warning: 	File has moved from https://anerdsworld.com/?p=30904 to https://anerdsworld.com
+02:41:43	Warning: 	Moved Permanently for https://anerdsworld.com/?p=2328
+02:41:43	Warning: 	File has moved from https://anerdsworld.com/?p=2328 to https://anerdsworld.com
+02:41:50	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:41:50	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:41:51	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:41:51	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:41:56	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:41:56	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:42:05	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:42:05	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:42:10	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:42:10	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:42:21	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:42:21	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:42:21	Warning: 	Moved Permanently for https://anerdsworld.com/seo-how-to-write-a-blog/
+02:42:21	Warning: 	File has moved from https://anerdsworld.com/seo-how-to-write-a-blog/ to https://anerdsworld.com
+02:42:22	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:42:22	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:42:25	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:42:25	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:42:26	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:42:26	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:42:27	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:42:27	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:42:27	Warning: 	Moved Permanently for https://anerdsworld.com/seo-in-2021/
+02:42:27	Warning: 	File has moved from https://anerdsworld.com/seo-in-2021/ to https://anerdsworld.com
+02:42:33	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:42:33	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:42:34	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:42:34	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:42:35	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:42:35	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:42:39	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:42:39	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:42:40	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:42:40	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:42:41	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:42:41	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:42:50	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:42:50	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:42:51	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:42:51	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:42:51	Warning: 	Moved Permanently for https://anerdsworld.com/seo-for-beginners-only-video-you-must-watch/
+02:42:51	Warning: 	File has moved from https://anerdsworld.com/seo-for-beginners-only-video-you-must-watch/ to https://anerdsworld.com
+02:42:57	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:42:57	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:42:58	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:42:58	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:43:04	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:43:04	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:43:04	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:43:04	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:43:10	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:43:10	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:43:11	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:43:11	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:43:17	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:43:17	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:43:18	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:43:18	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:43:19	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:43:19	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:43:22	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:43:22	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:43:25	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:43:25	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:43:30	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:43:30	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:43:31	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:43:31	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:43:31	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:43:31	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:43:37	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:43:37	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:43:38	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:43:38	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:43:43	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:43:43	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:43:43	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:43:43	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:43:44	Warning: 	Link https://anerdsworld.com/blog-seo-tips-in-toronto/page/2/ not scanned (follow robots meta tag)
+02:43:44	Warning: 	Link https://anerdsworld.com/blog-seo-tips-in-toronto/page/3/ not scanned (follow robots meta tag)
+02:43:45	Warning: 	Link https://anerdsworld.com/blog-seo-tips-in-toronto/page/4/ not scanned (follow robots meta tag)
+02:43:46	Warning: 	Link https://anerdsworld.com/blog-seo-tips-in-toronto/page/5/ not scanned (follow robots meta tag)
+02:43:47	Warning: 	Link https://anerdsworld.com/blog-seo-tips-in-toronto/page/6/ not scanned (follow robots meta tag)
+02:43:47	Warning: 	Link https://anerdsworld.com/blog-seo-tips-in-toronto/page/7/ not scanned (follow robots meta tag)
+02:43:48	Warning: 	Link https://anerdsworld.com/blog-seo-tips-in-toronto/page/8/ not scanned (follow robots meta tag)
+02:43:49	Warning: 	Link https://anerdsworld.com/blog-seo-tips-in-toronto/page/9/ not scanned (follow robots meta tag)
+02:43:49	Warning: 	Link https://anerdsworld.com/blog-seo-tips-in-toronto/page/10/ not scanned (follow robots meta tag)
+02:43:50	Warning: 	Link https://anerdsworld.com/blog-seo-tips-in-toronto/page/11/ not scanned (follow robots meta tag)
+02:43:50	Warning: 	Link https://anerdsworld.com/blog-seo-tips-in-toronto/page/12/ not scanned (follow robots meta tag)
+02:43:51	Warning: 	Link https://anerdsworld.com/blog-seo-tips-in-toronto/page/13/ not scanned (follow robots meta tag)
+02:43:51	Warning: 	Link https://anerdsworld.com/blog-seo-tips-in-toronto/page/14/ not scanned (follow robots meta tag)
+02:43:51	Warning: 	Link https://anerdsworld.com/blog-seo-tips-in-toronto/page/15/ not scanned (follow robots meta tag)
+02:43:51	Warning: 	Link https://anerdsworld.com/blog-seo-tips-in-toronto/page/16/ not scanned (follow robots meta tag)
+02:43:52	Warning: 	Link https://anerdsworld.com/blog-seo-tips-in-toronto/page/17/ not scanned (follow robots meta tag)
+02:43:52	Warning: 	Link https://anerdsworld.com/blog-seo-tips-in-toronto/page/18/ not scanned (follow robots meta tag)
+02:43:53	Warning: 	Link https://anerdsworld.com/blog-seo-tips-in-toronto/page/19/ not scanned (follow robots meta tag)
+02:43:54	Warning: 	Link https://anerdsworld.com/blog-seo-tips-in-toronto/page/20/ not scanned (follow robots meta tag)
+02:43:55	Warning: 	Link https://anerdsworld.com/blog-seo-tips-in-toronto/page/21/ not scanned (follow robots meta tag)
+02:44:02	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:44:02	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:44:03	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:44:03	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:44:09	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:44:09	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:44:09	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:44:09	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:44:15	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:44:15	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:44:16	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:44:16	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:44:21	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:44:21	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:44:22	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:44:22	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:44:29	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:44:29	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:44:30	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:44:30	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:44:36	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:44:36	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:44:37	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:44:37	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:44:43	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:44:43	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:44:43	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:44:43	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:44:49	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:44:49	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:44:50	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:44:50	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:44:55	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:44:55	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:44:56	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:44:56	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:45:02	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:45:02	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:45:03	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:45:03	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:45:09	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:45:09	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:45:10	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:45:10	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:45:13	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:45:13	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:45:15	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:45:15	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:45:21	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:45:21	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:45:21	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:45:21	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:45:27	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:45:27	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:45:28	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:45:28	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:45:34	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:45:34	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:45:34	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:45:34	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:45:40	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:45:40	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:45:40	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:45:40	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:45:46	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:45:46	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:45:47	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:45:47	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:45:50	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:45:50	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:45:50	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:45:50	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:45:56	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:45:56	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:45:56	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:45:56	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:03	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:03	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:04	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:04	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:04	Warning: 	Moved Permanently for https://anerdsworld.com/seo-north-pole/
+02:46:04	Warning: 	File has moved from https://anerdsworld.com/seo-north-pole/ to https://anerdsworld.com
+02:46:06	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:06	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:07	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:07	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:10	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:10	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:11	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:11	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:13	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:13	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:14	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:14	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:19	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:19	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:20	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:20	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:26	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:26	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:27	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:27	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:29	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:29	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:29	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:29	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:35	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:35	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:35	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:35	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:40	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:40	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:41	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:41	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:47	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:47	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:47	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:47	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:53	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:53	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:46:54	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:46:54	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:47:00	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:47:00	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:47:01	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:47:01	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:47:04	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:47:04	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:47:05	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:47:05	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:47:07	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:47:07	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:47:08	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:47:08	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:47:10	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:47:10	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:47:11	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:47:11	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:47:17	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:47:17	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:47:17	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:47:17	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:47:24	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:47:24	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:47:24	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:47:24	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:47:25	Warning: 	Moved Permanently for https://anerdsworld.com/?p=2330
+02:47:25	Warning: 	File has moved from https://anerdsworld.com/?p=2330 to https://anerdsworld.com
+02:47:25	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22918
+02:47:25	Warning: 	File has moved from https://anerdsworld.com/?p=22918 to https://anerdsworld.com
+02:47:25	Warning: 	Moved Permanently for https://anerdsworld.com/?p=27479
+02:47:25	Warning: 	File has moved from https://anerdsworld.com/?p=27479 to https://anerdsworld.com
+02:47:25	Warning: 	Moved Permanently for https://anerdsworld.com/?p=29668
+02:47:25	Warning: 	File has moved from https://anerdsworld.com/?p=29668 to https://anerdsworld.com
+02:47:25	Error: 	Duplicate entry in hts_wait_delayed() cancelled: www.w3.org/2000/svg -> C:/My Web Sites/webdesignpro-new/www.w3.org/2000/svg.9c.delayed
+02:47:25	Warning: 	link is probably looping, type unknown, aborting: www.w3.org/2000/svg
+02:47:25	Error: 	Duplicate entry in hts_wait_delayed() cancelled: www.w3.org/2000/svg -> C:/My Web Sites/webdesignpro-new/www.w3.org/2000/svg.9c.delayed
+02:47:25	Warning: 	link is probably looping, type unknown, aborting: www.w3.org/2000/svg
+02:47:25	Error: 	Duplicate entry in hts_wait_delayed() cancelled: www.w3.org/2000/svg -> C:/My Web Sites/webdesignpro-new/www.w3.org/2000/svg.9c.delayed
+02:47:25	Warning: 	link is probably looping, type unknown, aborting: www.w3.org/2000/svg
+02:47:25	Error: 	Duplicate entry in hts_wait_delayed() cancelled: www.w3.org/2000/svg -> C:/My Web Sites/webdesignpro-new/www.w3.org/2000/svg.9c.delayed
+02:47:25	Warning: 	link is probably looping, type unknown, aborting: www.w3.org/2000/svg
+02:47:25	Warning: 	Moved Permanently for https://anerdsworld.com/?p=2408
+02:47:25	Warning: 	File has moved from https://anerdsworld.com/?p=2408 to https://anerdsworld.com
+02:47:25	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22635
+02:47:25	Warning: 	File has moved from https://anerdsworld.com/?p=22635 to https://anerdsworld.com
+02:47:25	Warning: 	Moved Permanently for https://anerdsworld.com/?p=21994
+02:47:25	Warning: 	File has moved from https://anerdsworld.com/?p=21994 to https://anerdsworld.com
+02:47:25	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22097
+02:47:25	Warning: 	File has moved from https://anerdsworld.com/?p=22097 to https://anerdsworld.com
+02:47:25	Warning: 	Moved Permanently for https://anerdsworld.com/?p=24456
+02:47:25	Warning: 	File has moved from https://anerdsworld.com/?p=24456 to https://anerdsworld.com
+02:47:25	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22073
+02:47:25	Warning: 	File has moved from https://anerdsworld.com/?p=22073 to https://anerdsworld.com
+02:47:25	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22002
+02:47:25	Warning: 	File has moved from https://anerdsworld.com/?p=22002 to https://anerdsworld.com
+02:47:25	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22035
+02:47:25	Warning: 	File has moved from https://anerdsworld.com/?p=22035 to https://anerdsworld.com
+02:47:25	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22128
+02:47:25	Warning: 	File has moved from https://anerdsworld.com/?p=22128 to https://anerdsworld.com
+02:47:25	Warning: 	Moved Permanently for https://anerdsworld.com/?p=21827
+02:47:25	Warning: 	File has moved from https://anerdsworld.com/?p=21827 to https://anerdsworld.com
+02:47:41	Warning: 	Moved Permanently for https://anerdsworld.com/?p=28912
+02:47:41	Warning: 	File has moved from https://anerdsworld.com/?p=28912 to https://anerdsworld.com/ultimate-seo-training-guide/
+02:47:51	Warning: 	Link https://anerdsworld.com/author/anwadmin/page/2/ not scanned (follow robots meta tag)
+02:47:51	Warning: 	Link https://anerdsworld.com/author/anwadmin/page/3/ not scanned (follow robots meta tag)
+02:47:51	Warning: 	Link https://anerdsworld.com/author/anwadmin/page/4/ not scanned (follow robots meta tag)
+02:47:52	Warning: 	Link https://anerdsworld.com/author/anwadmin/page/5/ not scanned (follow robots meta tag)
+02:47:52	Warning: 	Link https://anerdsworld.com/author/anwadmin/page/6/ not scanned (follow robots meta tag)
+02:47:52	Warning: 	Link https://anerdsworld.com/author/anwadmin/page/7/ not scanned (follow robots meta tag)
+02:47:52	Warning: 	Link https://anerdsworld.com/author/anwadmin/page/8/ not scanned (follow robots meta tag)
+02:47:53	Warning: 	Link https://anerdsworld.com/author/anwadmin/page/9/ not scanned (follow robots meta tag)
+02:47:53	Warning: 	Link https://anerdsworld.com/author/anwadmin/page/10/ not scanned (follow robots meta tag)
+02:47:53	Warning: 	Link https://anerdsworld.com/author/anwadmin/page/11/ not scanned (follow robots meta tag)
+02:47:54	Warning: 	Link https://anerdsworld.com/author/anwadmin/page/12/ not scanned (follow robots meta tag)
+02:47:54	Warning: 	Link https://anerdsworld.com/author/anwadmin/page/13/ not scanned (follow robots meta tag)
+02:47:54	Warning: 	Link https://anerdsworld.com/author/anwadmin/page/14/ not scanned (follow robots meta tag)
+02:47:54	Warning: 	Link https://anerdsworld.com/author/anwadmin/page/15/ not scanned (follow robots meta tag)
+02:47:55	Warning: 	Link https://anerdsworld.com/author/anwadmin/page/16/ not scanned (follow robots meta tag)
+02:47:55	Warning: 	Link https://anerdsworld.com/author/anwadmin/page/17/ not scanned (follow robots meta tag)
+02:47:55	Warning: 	Link https://anerdsworld.com/author/anwadmin/page/18/ not scanned (follow robots meta tag)
+02:47:56	Warning: 	Link https://anerdsworld.com/author/anwadmin/page/19/ not scanned (follow robots meta tag)
+02:47:56	Warning: 	Link https://anerdsworld.com/author/anwadmin/page/20/ not scanned (follow robots meta tag)
+02:47:56	Warning: 	Link https://anerdsworld.com/author/anwadmin/page/21/ not scanned (follow robots meta tag)
+02:47:56	Warning: 	Link https://anerdsworld.com/category/uncategorized/page/2/ not scanned (follow robots meta tag)
+02:48:02	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:48:02	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:48:02	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:48:02	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:48:07	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:48:07	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:48:09	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:48:09	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:48:10	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:48:10	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:48:19	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:48:19	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:48:20	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:48:20	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:48:22	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:48:22	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:48:23	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:48:23	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:48:31	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:48:31	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:48:32	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:48:32	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:48:37	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:48:37	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:48:39	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:48:39	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:48:40	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:48:40	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:48:41	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:48:41	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:48:42	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:48:42	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:48:47	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:48:47	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:48:47	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:48:47	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:48:48	Warning: 	Link https://anerdsworld.com/category/search-engine-optimization/page/2/ not scanned (follow robots meta tag)
+02:48:48	Warning: 	Link https://anerdsworld.com/category/search-engine-optimization/page/3/ not scanned (follow robots meta tag)
+02:48:48	Warning: 	Link https://anerdsworld.com/category/search-engine-optimization/page/4/ not scanned (follow robots meta tag)
+02:48:49	Warning: 	Link https://anerdsworld.com/category/search-engine-optimization/page/5/ not scanned (follow robots meta tag)
+02:48:49	Warning: 	Link https://anerdsworld.com/category/search-engine-optimization/page/6/ not scanned (follow robots meta tag)
+02:48:49	Warning: 	Link https://anerdsworld.com/category/seo/page/2/ not scanned (follow robots meta tag)
+02:48:49	Warning: 	Link https://anerdsworld.com/category/seo/page/3/ not scanned (follow robots meta tag)
+02:48:50	Warning: 	Moved Permanently for https://anerdsworld.com/?p=26791
+02:48:50	Warning: 	File has moved from https://anerdsworld.com/?p=26791 to https://anerdsworld.com/seo-for-dummiess?p=26791
+02:48:55	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:48:55	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:48:55	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:48:55	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:48:55	Warning: 	Link https://anerdsworld.com/category/website-design/page/2/ not scanned (follow robots meta tag)
+02:48:56	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:48:56	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:49:05	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:49:05	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:49:08	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:49:08	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:49:09	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:49:09	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:49:09	Warning: 	Link https://anerdsworld.com/category/website-design/page/3/ not scanned (follow robots meta tag)
+02:49:09	Warning: 	Link https://anerdsworld.com/category/website-design/page/4/ not scanned (follow robots meta tag)
+02:49:09	Warning: 	Link https://anerdsworld.com/category/whats-new/page/2/ not scanned (follow robots meta tag)
+02:49:10	Warning: 	Link https://anerdsworld.com/category/whats-new/page/3/ not scanned (follow robots meta tag)
+02:49:10	Warning: 	Link https://anerdsworld.com/category/whats-new/page/4/ not scanned (follow robots meta tag)
+02:49:10	Warning: 	Link https://anerdsworld.com/category/whats-new/page/5/ not scanned (follow robots meta tag)
+02:49:10	Warning: 	Link https://anerdsworld.com/category/whats-new/page/6/ not scanned (follow robots meta tag)
+02:49:11	Warning: 	Link https://anerdsworld.com/category/whats-new/page/7/ not scanned (follow robots meta tag)
+02:49:11	Warning: 	Moved Permanently for https://anerdsworld.com/?p=28428
+02:49:11	Warning: 	File has moved from https://anerdsworld.com/?p=28428 to https://anerdsworld.com/how-long-does-seo-take/
+02:49:11	Warning: 	Moved Permanently for https://anerdsworld.com/?p=28417
+02:49:11	Warning: 	File has moved from https://anerdsworld.com/?p=28417 to https://anerdsworld.com/32-ways-to-promote-your-website-with-little-to-no-money/
+02:49:11	Warning: 	Moved Permanently for https://anerdsworld.com/?p=28413
+02:49:11	Warning: 	File has moved from https://anerdsworld.com/?p=28413 to https://anerdsworld.com/how-to-create-a-landing-page-that-ranks-on-google-5-seo-tips-for-optimizing/
+02:49:11	Warning: 	Moved Permanently for https://anerdsworld.com/?p=28409
+02:49:11	Warning: 	File has moved from https://anerdsworld.com/?p=28409 to https://anerdsworld.com/what-is-a-seo-landing-page/
+02:49:15	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:49:15	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:49:15	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:49:15	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:49:16	Warning: 	Moved Permanently for https://anerdsworld.com/?p=28402
+02:49:16	Warning: 	File has moved from https://anerdsworld.com/?p=28402 to https://anerdsworld.com/the-importance-of-great-work-ethic-in-business/
+02:49:17	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:49:17	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:49:23	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:49:23	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:49:26	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:49:26	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:49:26	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:49:26	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:49:26	Warning: 	Link https://anerdsworld.com/category/marketing/page/2/ not scanned (follow robots meta tag)
+02:49:31	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:49:31	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:49:32	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:49:32	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:49:37	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:49:37	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:49:38	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:49:38	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:49:38	Warning: 	Link https://anerdsworld.com/category/marketing/page/3/ not scanned (follow robots meta tag)
+02:49:39	Warning: 	Link https://anerdsworld.com/category/marketing/page/4/ not scanned (follow robots meta tag)
+02:49:39	Warning: 	Link https://anerdsworld.com/category/marketing/page/5/ not scanned (follow robots meta tag)
+02:49:39	Warning: 	Link https://anerdsworld.com/category/motivation/page/2/ not scanned (follow robots meta tag)
+02:49:39	Warning: 	Moved Permanently for https://anerdsworld.com/?p=27536
+02:49:39	Warning: 	File has moved from https://anerdsworld.com/?p=27536 to https://anerdsworld.com/top-15-things-to-do-when-starting-a-business/
+02:49:39	Warning: 	Moved Permanently for https://anerdsworld.com/?p=27568
+02:49:39	Warning: 	File has moved from https://anerdsworld.com/?p=27568 to https://anerdsworld.com/seo-for-dummies?p=27568
+02:49:41	Warning: 	Moved Permanently for https://anerdsworld.com/?p=27541
+02:49:41	Warning: 	File has moved from https://anerdsworld.com/?p=27541 to https://anerdsworld.com/backlinks-how-to-get-published-in-the-media-without-a-pr-team/
+02:49:41	Warning: 	Moved Permanently for https://anerdsworld.com/?p=27547
+02:49:41	Warning: 	File has moved from https://anerdsworld.com/?p=27547 to https://anerdsworld.com/seo-questions-answers?p=27547
+02:49:42	Warning: 	Moved Permanently for https://anerdsworld.com/?p=27551
+02:49:42	Warning: 	File has moved from https://anerdsworld.com/?p=27551 to https://anerdsworld.com/keyword-research-step-by-step-guide-for-seo/
+02:49:42	Warning: 	Moved Permanently for https://anerdsworld.com/?p=27556
+02:49:42	Warning: 	File has moved from https://anerdsworld.com/?p=27556 to https://anerdsworld.com/how-to-rank-your-website-on-google-6-easy-steps-to-1-for-seo/
+02:49:42	Warning: 	Moved Permanently for https://anerdsworld.com/?p=27559
+02:49:42	Warning: 	File has moved from https://anerdsworld.com/?p=27559 to https://anerdsworld.com/on-page-seo-checklist-2020-how-to-get-a-higher-ranking-on-google/
+02:49:42	Warning: 	Moved Permanently for https://anerdsworld.com/?p=27562
+02:49:42	Warning: 	File has moved from https://anerdsworld.com/?p=27562 to https://anerdsworld.com/how-to-steal-your-competitors-traffic-uncover-their-seo-strategy/
+02:49:42	Warning: 	Moved Permanently for https://anerdsworld.com/?p=27565
+02:49:42	Warning: 	File has moved from https://anerdsworld.com/?p=27565 to https://anerdsworld.com/how-to-rank-your-website-1-on-google-for-multiple-cities-keywords/
+02:49:42	Warning: 	Moved Permanently for https://anerdsworld.com/?p=26831
+02:49:42	Warning: 	File has moved from https://anerdsworld.com/?p=26831 to https://anerdsworld.com/navigating-through-covid-19/
+02:49:42	Warning: 	Moved Permanently for https://anerdsworld.com/?p=24808
+02:49:42	Warning: 	File has moved from https://anerdsworld.com/?p=24808 to https://anerdsworld.com/diy-seo-11-simple-steps-to-ranking-on-google/
+02:49:42	Warning: 	Moved Permanently for https://anerdsworld.com/?p=24801
+02:49:42	Warning: 	File has moved from https://anerdsworld.com/?p=24801 to https://anerdsworld.com/how-to-rank-1-on-google/
+02:49:42	Warning: 	Moved Permanently for https://anerdsworld.com/?p=24430
+02:49:42	Warning: 	File has moved from https://anerdsworld.com/?p=24430 to https://anerdsworld.com/my-website-design-critique-1/
+02:49:42	Warning: 	Moved Permanently for https://anerdsworld.com/?p=24386
+02:49:42	Warning: 	File has moved from https://anerdsworld.com/?p=24386 to https://anerdsworld.com/increase-your-work-ethic-for-more-success/
+02:49:46	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:49:46	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:49:52	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:49:52	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:49:53	Warning: 	Moved Permanently for https://anerdsworld.com/?p=24381
+02:49:53	Warning: 	File has moved from https://anerdsworld.com/?p=24381 to https://anerdsworld.com/5-myths-about-entrepreneurship/
+02:49:53	Warning: 	Moved Permanently for https://anerdsworld.com/?p=24375
+02:49:53	Warning: 	File has moved from https://anerdsworld.com/?p=24375 to https://anerdsworld.com/how-to-start-a-successful-online-business-7-steps/
+02:49:53	Warning: 	Moved Permanently for https://anerdsworld.com/?p=24320
+02:49:53	Warning: 	File has moved from https://anerdsworld.com/?p=24320 to https://anerdsworld.com/seo-for-beginners?p=24320
+02:49:54	Warning: 	Moved Permanently for https://anerdsworld.com/?p=24251
+02:49:54	Warning: 	File has moved from https://anerdsworld.com/?p=24251 to https://anerdsworld.com/20-words-that-you-should-never-say-to-a-client/
+02:49:54	Warning: 	Moved Permanently for https://anerdsworld.com/?p=24243
+02:49:54	Warning: 	File has moved from https://anerdsworld.com/?p=24243 to https://anerdsworld.com/5-steps-to-building-a-brand-for-your-business/
+02:49:54	Warning: 	Moved Permanently for https://anerdsworld.com/?p=24232
+02:49:54	Warning: 	File has moved from https://anerdsworld.com/?p=24232 to https://anerdsworld.com/how-do-i-stay-motivated-in-business/
+02:49:54	Warning: 	Moved Permanently for https://anerdsworld.com/?p=25542
+02:49:54	Warning: 	File has moved from https://anerdsworld.com/?p=25542 to https://anerdsworld.com/7-honest-website-design-reviews/
+02:49:54	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22499
+02:49:54	Warning: 	File has moved from https://anerdsworld.com/?p=22499 to https://anerdsworld.com/i-met-gary-vaynerchuk/
+02:49:54	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22471
+02:49:54	Warning: 	File has moved from https://anerdsworld.com/?p=22471 to https://anerdsworld.com/top-10-most-important-website-design-tips/
+02:49:54	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22475
+02:49:54	Warning: 	File has moved from https://anerdsworld.com/?p=22475 to https://anerdsworld.com/our-website-design-and-development-process/
+02:49:54	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22479
+02:49:54	Warning: 	File has moved from https://anerdsworld.com/?p=22479 to https://anerdsworld.com/graphic-design-tips-for-beginners/
+02:49:54	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22481
+02:49:54	Warning: 	File has moved from https://anerdsworld.com/?p=22481 to https://anerdsworld.com/7-golden-rules-to-entrepreneurship/
+02:49:54	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22483
+02:49:54	Warning: 	File has moved from https://anerdsworld.com/?p=22483 to https://anerdsworld.com/dropshipping-for-beginners/
+02:49:54	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22487
+02:49:54	Warning: 	File has moved from https://anerdsworld.com/?p=22487 to https://anerdsworld.com/why-is-seo-important?p=22487
+02:49:56	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22489
+02:49:56	Warning: 	File has moved from https://anerdsworld.com/?p=22489 to https://anerdsworld.com/seo-targeted-landing-pages?p=22489
+02:49:58	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22491
+02:49:58	Warning: 	File has moved from https://anerdsworld.com/?p=22491 to https://anerdsworld.com/grand-re-opening-of-our-3rd-store/
+02:49:58	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22497
+02:49:58	Warning: 	File has moved from https://anerdsworld.com/?p=22497 to https://anerdsworld.com/how-to-become-a-better-salesperson/
+02:49:58	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22495
+02:49:58	Warning: 	File has moved from https://anerdsworld.com/?p=22495 to https://anerdsworld.com/our-head-office-is-officially-closed/
+02:49:58	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22501
+02:49:58	Warning: 	File has moved from https://anerdsworld.com/?p=22501 to https://anerdsworld.com/how-to-sell-seo/
+02:49:58	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22503
+02:49:58	Warning: 	File has moved from https://anerdsworld.com/?p=22503 to https://anerdsworld.com/a-day-in-the-life-of-an-entrepreneur/
+02:49:58	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22505
+02:49:58	Warning: 	File has moved from https://anerdsworld.com/?p=22505 to https://anerdsworld.com/how-to-make-a-million-dollars-selling-t-shirts/
+02:49:58	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22507
+02:49:58	Warning: 	File has moved from https://anerdsworld.com/?p=22507 to https://anerdsworld.com/is-print-marketing-dead-in-2018/
+02:49:58	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22509
+02:49:58	Warning: 	File has moved from https://anerdsworld.com/?p=22509 to https://anerdsworld.com/web-developers-how-to-generate-traffic-with-seo/
+02:49:58	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22148
+02:49:58	Warning: 	File has moved from https://anerdsworld.com/?p=22148 to https://anerdsworld.com/for-teenage-entrperneurs/
+02:49:58	Warning: 	Moved Permanently for https://anerdsworld.com/?p=19299
+02:49:58	Warning: 	File has moved from https://anerdsworld.com/?p=19299 to https://anerdsworld.com/5-successful-people-that-wear-a-t-shirt-everyday?p=19299
+02:49:59	Warning: 	Moved Permanently for https://anerdsworld.com/?p=19289
+02:49:59	Warning: 	File has moved from https://anerdsworld.com/?p=19289 to https://anerdsworld.com/aerial-drone-photography-toronto/
+02:49:59	Warning: 	Link https://anerdsworld.com/category/blog/page/2/ not scanned (follow robots meta tag)
+02:50:02	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:02	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:03	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:03	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:05	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:05	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:05	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:05	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:10	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:10	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:10	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:10	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:13	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:13	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:15	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:15	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:19	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:19	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:20	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:20	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:25	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:25	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:26	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:26	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:26	Warning: 	Moved Permanently for https://anerdsworld.com/seo-white-hat-vs-black-hat/
+02:50:26	Warning: 	File has moved from https://anerdsworld.com/seo-white-hat-vs-black-hat/ to https://anerdsworld.com
+02:50:31	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:31	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:31	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:31	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:31	Warning: 	Link https://anerdsworld.com/category/blog/page/3/ not scanned (follow robots meta tag)
+02:50:36	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:36	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:37	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:37	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:39	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:39	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:40	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:40	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:45	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:45	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:46	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:46	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:46	Warning: 	Link https://anerdsworld.com/category/photography/page/2/ not scanned (follow robots meta tag)
+02:50:49	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:49	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:50	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:50	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:52	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:52	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:53	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:53	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:56	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:56	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:50:57	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:50:57	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:02	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:02	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:03	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:03	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:06	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:06	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:07	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:07	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:10	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:10	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:11	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:11	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:16	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:16	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:16	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:16	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:19	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:19	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:22	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:22	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:27	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:27	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:27	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:27	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:30	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:30	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:31	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:31	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:34	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:34	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:35	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:35	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:37	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:37	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:38	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:38	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:38	Warning: 	Moved Permanently for https://anerdsworld.com/toronto-web-design/
+02:51:38	Warning: 	File has moved from https://anerdsworld.com/toronto-web-design/ to https://anerdsworld.com/toronto-web-design-companyweb-development
+02:51:41	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:41	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:41	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:41	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:44	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:44	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:45	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:45	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:50	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:50	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:50	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:50	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:55	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:55	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:57	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:51:57	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:51:57	Warning: 	Moved Permanently for https://anerdsworld.com/?p=19213
+02:51:57	Warning: 	File has moved from https://anerdsworld.com/?p=19213 to https://anerdsworld.com/writing-seo-friendly-content/
+02:52:00	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:00	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:10	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:10	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:10	Warning: 	Moved Permanently for https://anerdsworld.com/web-design-services-toronto/search-engine-optimization-toronto-seo/
+02:52:10	Warning: 	File has moved from https://anerdsworld.com/web-design-services-toronto/search-engine-optimization-toronto-seo/ to https://anerdsworld.com/toronto-seo
+02:52:13	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:13	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:14	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:14	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:14	Warning: 	Moved Permanently for https://anerdsworld.com/?p=19187
+02:52:14	Warning: 	File has moved from https://anerdsworld.com/?p=19187 to https://anerdsworld.com/adding-security-wordpress/
+02:52:14	Warning: 	Moved Permanently for https://anerdsworld.com/?p=25600
+02:52:14	Warning: 	File has moved from https://anerdsworld.com/?p=25600 to https://anerdsworld.com
+02:52:14	Warning: 	Link https://anerdsworld.com/category/graphic-design/page/2/ not scanned (follow robots meta tag)
+02:52:16	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:16	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:20	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:20	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:23	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:23	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:24	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:24	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:28	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:28	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:29	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:29	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:32	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:32	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:34	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:34	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:35	Warning: 	Moved Permanently for https://anerdsworld.com/sean-farris-graphic-designer-toronto/
+02:52:35	Warning: 	File has moved from https://anerdsworld.com/sean-farris-graphic-designer-toronto/ to https://anerdsworld.com
+02:52:37	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:37	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:38	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:38	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:40	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:40	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:42	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:42	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:44	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:44	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:45	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:45	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:50	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:50	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:50	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:50	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:56	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:56	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:56	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:52:56	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:52:57	Warning: 	Moved Permanently for https://anerdsworld.com/?p=21193
+02:52:57	Warning: 	File has moved from https://anerdsworld.com/?p=21193 to https://anerdsworld.com/i-love-my-job-web-development/
+02:52:57	Warning: 	Moved Permanently for https://anerdsworld.com/?p=17882
+02:52:57	Warning: 	File has moved from https://anerdsworld.com/?p=17882 to https://anerdsworld.com
+02:52:57	Warning: 	Link https://anerdsworld.com/category/branding/page/2/ not scanned (follow robots meta tag)
+02:53:00	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:53:00	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:53:01	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:53:01	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:53:03	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:53:03	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:53:03	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:53:03	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:53:05	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:53:05	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:53:07	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:53:07	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:53:10	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:53:10	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:53:11	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:53:11	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:53:14	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:53:14	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:53:15	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:53:15	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:53:18	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:53:18	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:53:20	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:53:20	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:53:25	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:53:25	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:53:25	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:53:25	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:53:26	Warning: 	Link https://anerdsworld.com/category/branding/page/3/ not scanned (follow robots meta tag)
+02:53:26	Warning: 	Link https://anerdsworld.com/category/branding/page/4/ not scanned (follow robots meta tag)
+02:53:26	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22485
+02:53:26	Warning: 	File has moved from https://anerdsworld.com/?p=22485 to https://anerdsworld.com/entrepreneurship-is-not-easy/
+02:53:26	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22517
+02:53:26	Warning: 	File has moved from https://anerdsworld.com/?p=22517 to https://anerdsworld.com/fail-early-fail-often-fail-forward-will-smith/
+02:53:26	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22477
+02:53:26	Warning: 	File has moved from https://anerdsworld.com/?p=22477 to https://anerdsworld.com/new-business-checklist-for-2018/
+02:53:26	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22253
+02:53:26	Warning: 	File has moved from https://anerdsworld.com/?p=22253 to https://anerdsworld.com
+02:53:35	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:53:35	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:54:02	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:54:02	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:54:05	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:54:05	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:54:05	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:54:05	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:54:10	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:54:10	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:54:10	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:54:10	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:54:13	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:54:13	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:54:14	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:54:14	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:54:16	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:54:16	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:54:17	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:54:17	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:54:20	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:54:20	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:54:20	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:54:20	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:54:25	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:54:25	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:54:25	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:54:25	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:54:26	Warning: 	Moved Permanently for https://anerdsworld.com/?p=19482
+02:54:26	Warning: 	File has moved from https://anerdsworld.com/?p=19482 to https://anerdsworld.com/the-art-of-sales/
+02:54:26	Warning: 	Moved Permanently for https://anerdsworld.com/?p=19326
+02:54:26	Warning: 	File has moved from https://anerdsworld.com/?p=19326 to https://anerdsworld.com/my-first-business-at-12-years-old?p=19326
+02:54:27	Warning: 	Moved Permanently for https://anerdsworld.com/?p=23467
+02:54:27	Warning: 	File has moved from https://anerdsworld.com/?p=23467 to https://anerdsworld.com/top5-seo-misconceptions?p=23467
+02:54:28	Warning: 	Moved Permanently for https://anerdsworld.com/?p=18336
+02:54:28	Warning: 	File has moved from https://anerdsworld.com/?p=18336 to https://anerdsworld.com/are-google-reviews-important-2016/
+02:54:28	Warning: 	Moved Permanently for https://anerdsworld.com/?p=23272
+02:54:28	Warning: 	File has moved from https://anerdsworld.com/?p=23272 to https://anerdsworld.com/best-100-guerilla-marketing-campaigns?p=23272
+02:54:30	Warning: 	Moved Permanently for https://anerdsworld.com/?p=18372
+02:54:30	Warning: 	File has moved from https://anerdsworld.com/?p=18372 to https://anerdsworld.com/free-seo-consultation/
+02:54:30	Warning: 	Moved Permanently for https://anerdsworld.com/?p=23224
+02:54:30	Warning: 	File has moved from https://anerdsworld.com/?p=23224 to https://anerdsworld.com/seo-consultant?p=23224
+02:54:31	Warning: 	Moved Permanently for https://anerdsworld.com/?p=19474
+02:54:31	Warning: 	File has moved from https://anerdsworld.com/?p=19474 to https://anerdsworld.com/my-13-days-in-a-cuban-prison/
+02:54:31	Warning: 	Moved Permanently for https://anerdsworld.com/?p=18378
+02:54:31	Warning: 	File has moved from https://anerdsworld.com/?p=18378 to https://anerdsworld.com/toronto-drone-stock-footage/
+02:54:31	Warning: 	Moved Permanently for https://anerdsworld.com/toronto-web-design-companyweb-development/
+02:54:31	Warning: 	File has moved from https://anerdsworld.com/toronto-web-design-companyweb-development/ to https://anerdsworld.com/toronto-web-design-companyweb-development
+02:54:31	Warning: 	Moved Permanently for https://anerdsworld.com/drone-video-services-toronto/
+02:54:31	Warning: 	File has moved from https://anerdsworld.com/drone-video-services-toronto/ to https://anerdsworld.com
+02:54:31	Warning: 	Moved Permanently for https://anerdsworld.com/search-engine-optimization-toronto-seo/
+02:54:31	Warning: 	File has moved from https://anerdsworld.com/search-engine-optimization-toronto-seo/ to https://anerdsworld.com
+02:54:31	Warning: 	Moved Permanently for https://anerdsworld.com/?p=17549
+02:54:31	Warning: 	File has moved from https://anerdsworld.com/?p=17549 to https://anerdsworld.com/toronto-real-estate-drone-services/
+02:54:31	Warning: 	Moved Permanently for https://anerdsworld.com/drone-photography-toronto/
+02:54:31	Warning: 	File has moved from https://anerdsworld.com/drone-photography-toronto/ to https://anerdsworld.com
+02:54:31	Warning: 	Moved Permanently for https://anerdsworld.com/?p=19633
+02:54:31	Warning: 	File has moved from https://anerdsworld.com/?p=19633 to https://anerdsworld.com/whats-in-my-camera-bag/
+02:54:31	Warning: 	Moved Permanently for https://anerdsworld.com/?p=18778
+02:54:31	Warning: 	File has moved from https://anerdsworld.com/?p=18778 to https://anerdsworld.com/headshot-studio-toronto/
+02:54:32	Warning: 	Moved Permanently for https://anerdsworld.com/best-photo-studios-toronto/
+02:54:32	Warning: 	File has moved from https://anerdsworld.com/best-photo-studios-toronto/ to https://anerdsworld.com/best-photo-studios-toronto
+02:54:32	Warning: 	Moved Permanently for https://anerdsworld.com/toronto-commercial-photographer/
+02:54:32	Warning: 	File has moved from https://anerdsworld.com/toronto-commercial-photographer/ to https://anerdsworld.com/best-photo-studios-toronto
+02:54:32	Warning: 	Moved Permanently for https://anerdsworld.com/?p=18316
+02:54:32	Warning: 	File has moved from https://anerdsworld.com/?p=18316 to https://anerdsworld.com/ctv-interview-with-chris-hughes/
+02:54:32	Warning: 	Moved Permanently for https://anerdsworld.com/?p=18243
+02:54:32	Warning: 	File has moved from https://anerdsworld.com/?p=18243 to https://anerdsworld.com/toronto-biggest-vintage-camera-collection/
+02:54:32	Warning: 	Moved Permanently for https://anerdsworld.com/?p=18151
+02:54:32	Warning: 	File has moved from https://anerdsworld.com/?p=18151 to https://anerdsworld.com/cbc-metro-morning-interview-chris-hughes/
+02:54:34	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:54:34	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:54:38	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:54:38	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:54:39	Warning: 	Moved Permanently for https://anerdsworld.com/?p=17863
+02:54:39	Warning: 	File has moved from https://anerdsworld.com/?p=17863 to https://anerdsworld.com/linkedin-headshots-toronto/
+02:54:39	Warning: 	Moved Permanently for https://anerdsworld.com/?p=17690
+02:54:39	Warning: 	File has moved from https://anerdsworld.com/?p=17690 to https://anerdsworld.com/10-minutes-in-the-west-bank/
+02:54:39	Warning: 	Moved Permanently for https://anerdsworld.com/?p=17216
+02:54:39	Warning: 	File has moved from https://anerdsworld.com/?p=17216 to https://anerdsworld.com/evergreen-getting-dirty-campaign/
+02:54:39	Warning: 	Moved Permanently for https://anerdsworld.com/?p=17173
+02:54:39	Warning: 	File has moved from https://anerdsworld.com/?p=17173 to https://anerdsworld.com/are-professional-headshots-important/
+02:54:39	Warning: 	Moved Permanently for https://anerdsworld.com/?p=16858
+02:54:39	Warning: 	File has moved from https://anerdsworld.com/?p=16858 to https://anerdsworld.com/professional-headshots-in-toronto/?p=16858
+02:54:39	Warning: 	Moved Permanently for https://anerdsworld.com/?p=18303
+02:54:39	Warning: 	File has moved from https://anerdsworld.com/?p=18303 to https://anerdsworld.com/250-promotional-video-deal/
+02:54:39	Warning: 	Moved Permanently for https://anerdsworld.com/?p=17179
+02:54:39	Warning: 	File has moved from https://anerdsworld.com/?p=17179 to https://anerdsworld.com/10-motivational-videos-for-entrepreneurs/
+02:54:39	Warning: 	Moved Permanently for https://anerdsworld.com/?p=15819
+02:54:39	Warning: 	File has moved from https://anerdsworld.com/?p=15819 to https://anerdsworld.com/terminator-guerilla-marketing-video/
+02:54:39	Warning: 	Moved Permanently for https://anerdsworld.com/?p=15214
+02:54:39	Warning: 	File has moved from https://anerdsworld.com/?p=15214 to https://anerdsworld.com/bloopers-and-outtakes/
+02:54:44	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:54:44	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:54:46	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:54:46	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:54:46	Warning: 	Moved Permanently for https://anerdsworld.com/?p=15055
+02:54:46	Warning: 	File has moved from https://anerdsworld.com/?p=15055 to https://anerdsworld.com/guerilla-marketing-dhl/
+02:54:46	Warning: 	Moved Permanently for https://anerdsworld.com/?p=12857
+02:54:46	Warning: 	File has moved from https://anerdsworld.com/?p=12857 to https://anerdsworld.com/importance-of-video-on-website/
+02:54:46	Warning: 	Moved Permanently for https://anerdsworld.com/contact-anerdsworld-by-phone-or-email-today/
+02:54:46	Warning: 	File has moved from https://anerdsworld.com/contact-anerdsworld-by-phone-or-email-today/ to https://anerdsworld.com
+02:54:46	Warning: 	Moved Permanently for https://anerdsworld.com/?p=16725
+02:54:46	Warning: 	File has moved from https://anerdsworld.com/?p=16725 to https://anerdsworld.com/content-is-king-in-seo/
+02:54:51	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:54:51	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:54:51	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:54:51	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:54:52	Warning: 	Moved Permanently for https://anerdsworld.com/?p=18022
+02:54:52	Warning: 	File has moved from https://anerdsworld.com/?p=18022 to https://anerdsworld.com/content-marketing-toronto/
+02:54:56	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:54:56	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:54:57	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:54:57	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:00	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:00	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:00	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:00	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:03	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:03	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:04	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:04	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:04	Warning: 	Link https://anerdsworld.com/category/logo-design/page/2/ not scanned (follow robots meta tag)
+02:55:09	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:09	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:10	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:10	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:12	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:12	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:13	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:13	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:18	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:18	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:19	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:19	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:24	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:24	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:27	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:27	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:30	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:30	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:31	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:31	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:32	Warning: 	Moved Permanently for https://anerdsworld.com/?p=18283
+02:55:32	Warning: 	File has moved from https://anerdsworld.com/?p=18283 to https://anerdsworld.com/our-new-hand-painted-windows-mural-form/
+02:55:32	Warning: 	Moved Permanently for https://anerdsworld.com/?p=18186
+02:55:32	Warning: 	File has moved from https://anerdsworld.com/?p=18186 to https://anerdsworld.com/how-andy-warhol-changed-my-world/
+02:55:32	Warning: 	Moved Permanently for https://anerdsworld.com/?p=18166
+02:55:32	Warning: 	File has moved from https://anerdsworld.com/?p=18166 to https://anerdsworld.com/be-inspired/
+02:55:32	Warning: 	Moved Permanently for https://anerdsworld.com/toronto-graphic-designers-for-logo-corporate-identity-and-branding/
+02:55:32	Warning: 	File has moved from https://anerdsworld.com/toronto-graphic-designers-for-logo-corporate-identity-and-branding/ to https://anerdsworld.com/toronto-graphic-designers-for-logo-corporate-identity-and-branding
+02:55:32	Warning: 	Moved Permanently for https://anerdsworld.com/?p=17152
+02:55:32	Warning: 	File has moved from https://anerdsworld.com/?p=17152 to https://anerdsworld.com/5-mistakes-to-avoid-when-building-a-new-website/
+02:55:32	Warning: 	Moved Permanently for https://anerdsworld.com/toronto-graphic-design-firm-logo/
+02:55:32	Warning: 	File has moved from https://anerdsworld.com/toronto-graphic-design-firm-logo/ to https://anerdsworld.com/toronto-graphic-design-firm-logo
+02:55:32	Warning: 	Moved Permanently for https://anerdsworld.com/?p=16927
+02:55:32	Warning: 	File has moved from https://anerdsworld.com/?p=16927 to https://anerdsworld.com/is-print-dead-not-so-fast/
+02:55:32	Warning: 	Moved Permanently for https://anerdsworld.com/?p=16713
+02:55:32	Warning: 	File has moved from https://anerdsworld.com/?p=16713 to https://anerdsworld.com/5-mistakes-in-logo-design/
+02:55:32	Warning: 	Moved Permanently for https://anerdsworld.com/?p=16988
+02:55:32	Warning: 	File has moved from https://anerdsworld.com/?p=16988 to https://anerdsworld.com/best-lawyer-web-design-toronto/
+02:55:32	Warning: 	Moved Permanently for https://anerdsworld.com/?p=15664
+02:55:32	Warning: 	File has moved from https://anerdsworld.com/?p=15664 to https://anerdsworld.com/why-is-store-signage-so-important/
+02:55:32	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22519
+02:55:32	Warning: 	File has moved from https://anerdsworld.com/?p=22519 to https://anerdsworld.com/buying-selling-domains-in-2018/
+02:55:32	Warning: 	Moved Permanently for https://anerdsworld.com/?p=18567
+02:55:32	Warning: 	File has moved from https://anerdsworld.com/?p=18567 to https://anerdsworld.com/getting-right-with-google/
+02:55:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://anerdsworld.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fanerdsworld.com%2Fgetting-right-with-google%2F&format=xml (from https://anerdsworld.com/getting-right-with-google/)
+02:55:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://anerdsworld.com/wp-content/uploads/2016/06/toronto-seo-google.jpg (from https://anerdsworld.com/getting-right-with-google/)
+02:55:32	Warning: 	Moved Permanently for https://anerdsworld.com/the-importance-of-online-reviews/
+02:55:32	Warning: 	File has moved from https://anerdsworld.com/the-importance-of-online-reviews/ to https://anerdsworld.com
+02:55:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://anerdsworld.com/getting-right-with-google/POST (from https://anerdsworld.com/getting-right-with-google/)
+02:55:36	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:36	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:37	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:37	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:40	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:40	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:40	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:40	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:43	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:43	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:44	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:44	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:44	Warning: 	Moved Permanently for https://anerdsworld.com/?p=18563
+02:55:44	Warning: 	File has moved from https://anerdsworld.com/?p=18563 to https://anerdsworld.com/keyword-research-backbone-of-seo/
+02:55:44	Warning: 	Moved Permanently for https://anerdsworld.com/?p=18325
+02:55:44	Warning: 	File has moved from https://anerdsworld.com/?p=18325 to https://anerdsworld.com/putting-a-face-to-your-business-and-or-website/
+02:55:44	Warning: 	Moved Permanently for https://anerdsworld.com/barrie-web-design/
+02:55:44	Warning: 	File has moved from https://anerdsworld.com/barrie-web-design/ to https://anerdsworld.com/barrie-web-design
+02:55:50	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:50	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:51	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:51	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:52	Warning: 	Moved Permanently for https://anerdsworld.com/web-design-mississauga/
+02:55:52	Warning: 	File has moved from https://anerdsworld.com/web-design-mississauga/ to https://anerdsworld.com/web-design-mississauga
+02:55:52	Warning: 	Moved Permanently for https://anerdsworld.com/?p=18253
+02:55:52	Warning: 	File has moved from https://anerdsworld.com/?p=18253 to https://anerdsworld.com/best-small-investment-for-your-store/
+02:55:52	Warning: 	Moved Permanently for https://anerdsworld.com/?p=18206
+02:55:52	Warning: 	File has moved from https://anerdsworld.com/?p=18206 to https://anerdsworld.com/overnight-success/
+02:55:52	Warning: 	Moved Permanently for https://anerdsworld.com/?p=21655
+02:55:52	Warning: 	File has moved from https://anerdsworld.com/?p=21655 to https://anerdsworld.com
+02:55:55	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:55	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:55:56	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:55:56	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:56:01	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:56:01	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:56:01	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:56:01	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:56:06	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:56:06	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:56:06	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:56:06	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:56:11	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:56:11	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:56:11	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:56:11	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:56:14	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:56:14	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:56:15	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:56:15	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:56:15	Warning: 	Moved Permanently for https://anerdsworld.com/?p=21966
+02:56:15	Warning: 	File has moved from https://anerdsworld.com/?p=21966 to https://anerdsworld.com
+02:56:15	Warning: 	Moved Permanently for https://anerdsworld.com/?p=21977
+02:56:15	Warning: 	File has moved from https://anerdsworld.com/?p=21977 to https://anerdsworld.com
+02:56:15	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22080
+02:56:15	Warning: 	File has moved from https://anerdsworld.com/?p=22080 to https://anerdsworld.com
+02:56:15	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22012
+02:56:15	Warning: 	File has moved from https://anerdsworld.com/?p=22012 to https://anerdsworld.com
+02:56:15	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22120
+02:56:15	Warning: 	File has moved from https://anerdsworld.com/?p=22120 to https://anerdsworld.com
+02:56:15	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22138
+02:56:15	Warning: 	File has moved from https://anerdsworld.com/?p=22138 to https://anerdsworld.com
+02:56:15	Warning: 	Moved Permanently for https://anerdsworld.com/?p=12599
+02:56:15	Warning: 	File has moved from https://anerdsworld.com/?p=12599 to https://anerdsworld.com/how-to-get-free-press-coverage-media/
+02:56:15	Warning: 	Moved Permanently for https://anerdsworld.com/professional-headshots-in-toronto/?p=16858
+02:56:15	Warning: 	File has moved from https://anerdsworld.com/professional-headshots-in-toronto/?p=16858 to https://anerdsworld.com/professional-headshots-in-toronto/
+02:56:15	Warning: 	Moved Permanently for https://anerdsworld.com/?p=2301
+02:56:15	Warning: 	File has moved from https://anerdsworld.com/?p=2301 to https://anerdsworld.com
+02:56:15	Warning: 	Moved Permanently for https://anerdsworld.com/?p=15153
+02:56:15	Warning: 	File has moved from https://anerdsworld.com/?p=15153 to https://anerdsworld.com
+02:56:15	Warning: 	Moved Permanently for https://anerdsworld.com/?p=14825
+02:56:15	Warning: 	File has moved from https://anerdsworld.com/?p=14825 to https://anerdsworld.com/black-hat-vs-white-hat-seo/
+02:56:15	Warning: 	Moved Permanently for https://anerdsworld.com/services/search-engine-optimization-toronto-seo/
+02:56:15	Warning: 	File has moved from https://anerdsworld.com/services/search-engine-optimization-toronto-seo/ to https://anerdsworld.com
+02:56:15	Warning: 	Moved Permanently for https://anerdsworld.com/?p=16396
+02:56:15	Warning: 	File has moved from https://anerdsworld.com/?p=16396 to https://anerdsworld.com/what-is-local-seo/
+02:56:15	Warning: 	Moved Permanently for https://anerdsworld.com/?p=17761
+02:56:15	Warning: 	File has moved from https://anerdsworld.com/?p=17761 to https://anerdsworld.com/free-seo-consultations/
+02:56:19	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:56:19	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:56:20	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:56:20	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:56:20	Warning: 	Moved Permanently for https://anerdsworld.com/?p=21138
+02:56:20	Warning: 	File has moved from https://anerdsworld.com/?p=21138 to https://anerdsworld.com/10-most-expensive-logos-in-the-world/
+02:56:20	Warning: 	Moved Permanently for https://anerdsworld.com/?p=16868
+02:56:20	Warning: 	File has moved from https://anerdsworld.com/?p=16868 to https://anerdsworld.com/logo-designer-toronto/
+02:56:21	Warning: 	Moved Permanently for https://anerdsworld.com/?p=16318
+02:56:21	Warning: 	File has moved from https://anerdsworld.com/?p=16318 to https://anerdsworld.com/25-best-business-card-designs/
+02:56:21	Warning: 	Moved Permanently for https://anerdsworld.com/?p=15022
+02:56:21	Warning: 	File has moved from https://anerdsworld.com/?p=15022 to https://anerdsworld.com/the-5-most-expensive-logos/
+02:56:21	Warning: 	Moved Permanently for https://anerdsworld.com/services/toronto-graphic-designers-for-logo-corporate-identity-and-branding/
+02:56:21	Warning: 	File has moved from https://anerdsworld.com/services/toronto-graphic-designers-for-logo-corporate-identity-and-branding/ to https://anerdsworld.com
+02:56:21	Warning: 	Moved Permanently for https://anerdsworld.com/?p=13647
+02:56:21	Warning: 	File has moved from https://anerdsworld.com/?p=13647 to https://anerdsworld.com/best-logo-design-toronto/
+02:56:21	Warning: 	Moved Permanently for https://anerdsworld.com/our-portfolio/toronto-logo-branding-web-identity-portfolio/
+02:56:21	Warning: 	File has moved from https://anerdsworld.com/our-portfolio/toronto-logo-branding-web-identity-portfolio/ to https://anerdsworld.com
+02:56:26	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:56:26	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:56:26	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:56:26	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:56:27	Warning: 	Moved Permanently for https://anerdsworld.com/getting-right-with-google/POST
+02:56:27	Warning: 	File has moved from https://anerdsworld.com/getting-right-with-google/POST to https://anerdsworld.com
+02:56:27	Warning: 	Moved Permanently for https://anerdsworld.com/?p=18479
+02:56:27	Warning: 	File has moved from https://anerdsworld.com/?p=18479 to https://anerdsworld.com/add-us-on-snapchat-anerdsworld1/
+02:56:27	Warning: 	Moved Permanently for https://anerdsworld.com/?p=14155
+02:56:27	Warning: 	File has moved from https://anerdsworld.com/?p=14155 to https://anerdsworld.com/linkedin-headshots-portrait-toronto/
+02:56:27	Warning: 	Moved Permanently for https://anerdsworld.com/?p=14124
+02:56:27	Warning: 	File has moved from https://anerdsworld.com/?p=14124 to https://anerdsworld.com/app-development-toronto/
+02:56:27	Warning: 	Moved Permanently for https://anerdsworld.com/services/freelance-seo-copywriter-toronto/
+02:56:27	Warning: 	File has moved from https://anerdsworld.com/services/freelance-seo-copywriter-toronto/ to https://anerdsworld.com
+02:56:31	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:56:31	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:56:32	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:56:32	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+02:56:32	Warning: 	Moved Permanently for https://anerdsworld.com/?p=18708
+02:56:32	Warning: 	File has moved from https://anerdsworld.com/?p=18708 to https://anerdsworld.com
+02:56:35	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+02:56:35	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+03:00:13	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+03:00:13	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+03:00:19	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+03:00:19	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+03:00:19	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+03:00:19	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+03:00:20	Warning: 	Moved Permanently for https://anerdsworld.com/?p=21987
+03:00:20	Warning: 	File has moved from https://anerdsworld.com/?p=21987 to https://anerdsworld.com
+03:00:20	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22103
+03:00:20	Warning: 	File has moved from https://anerdsworld.com/?p=22103 to https://anerdsworld.com
+03:00:20	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22086
+03:00:20	Warning: 	File has moved from https://anerdsworld.com/?p=22086 to https://anerdsworld.com
+03:00:20	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22902
+03:00:20	Warning: 	File has moved from https://anerdsworld.com/?p=22902 to https://anerdsworld.com
+03:00:20	Warning: 	Moved Permanently for https://anerdsworld.com/?p=22113
+03:00:20	Warning: 	File has moved from https://anerdsworld.com/?p=22113 to https://anerdsworld.com
+03:00:20	Warning: 	Moved Permanently for https://anerdsworld.com/?p=17752
+03:00:20	Warning: 	File has moved from https://anerdsworld.com/?p=17752 to https://anerdsworld.com/how-to-write-a-good-blog/
+03:00:20	Warning: 	Moved Permanently for https://anerdsworld.com/?p=2404
+03:00:20	Warning: 	File has moved from https://anerdsworld.com/?p=2404 to https://anerdsworld.com
+03:00:20	Warning: 	Moved Permanently for https://anerdsworld.com/?p=23309
+03:00:20	Warning: 	File has moved from https://anerdsworld.com/?p=23309 to https://anerdsworld.com
+03:00:25	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+03:00:25	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+03:00:26	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+03:00:26	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+03:00:26	Warning: 	Moved Permanently for https://anerdsworld.com/?p=16786
+03:00:26	Warning: 	File has moved from https://anerdsworld.com/?p=16786 to https://anerdsworld.com
+03:00:27	Warning: 	Moved Permanently for https://anerdsworld.com/toronto-web-design-companyweb-development/marengo/
+03:00:27	Warning: 	File has moved from https://anerdsworld.com/toronto-web-design-companyweb-development/marengo/ to https://anerdsworld.com
+03:00:27	Warning: 	Moved Permanently for https://anerdsworld.com/toronto-web-design-companyweb-development/wu-tang-clan/
+03:00:27	Warning: 	File has moved from https://anerdsworld.com/toronto-web-design-companyweb-development/wu-tang-clan/ to https://anerdsworld.com
+03:00:27	Warning: 	Moved Permanently for https://anerdsworld.com/toronto-web-design-companyweb-development/rent-safe/
+03:00:27	Warning: 	File has moved from https://anerdsworld.com/toronto-web-design-companyweb-development/rent-safe/ to https://anerdsworld.com
+03:00:27	Warning: 	Moved Permanently for https://anerdsworld.com/?p=28309
+03:00:27	Warning: 	File has moved from https://anerdsworld.com/?p=28309 to https://anerdsworld.com
+03:00:27	Warning: 	Moved Permanently for https://anerdsworld.com/?p=24583
+03:00:27	Warning: 	File has moved from https://anerdsworld.com/?p=24583 to https://anerdsworld.com
+03:00:31	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+03:00:31	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+03:00:31	Error: 	Duplicate entry in hts_wait_delayed() cancelled: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng -> C:/My Web Sites/webdesignpro-new/www.youtube.com/channel/UCe2244teD44T25EXhCAWJng.3d.delayed
+03:00:31	Warning: 	link is probably looping, type unknown, aborting: https://www.youtube.com/channel/UCe2244teD44T25EXhCAWJng
+03:00:31	Warning: 	Moved Permanently for https://anerdsworld.com/?p=23979
+03:00:31	Warning: 	File has moved from https://anerdsworld.com/?p=23979 to https://anerdsworld.com
+
+HTTrack Website Copier/3.49-2 mirror complete in 40 minutes 56 seconds : 2005 links scanned, 1792 files written (226090782 bytes overall) [171578639 bytes received at 69861 bytes/sec], 74116330 bytes transferred using HTTP compression in 958 files, ratio 24%, 13.3 requests per connection
+(370 errors, 837 warnings, 0 messages)

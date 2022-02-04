@@ -1,0 +1,1 @@
+console.log("fisher");jQuery(document).ready(function(o){o(".custombox-overlay").click(function(){o(".paoc-popup-modal-cnt video").each(function(){o(this).get(0).pause()});console.log("fish")})});

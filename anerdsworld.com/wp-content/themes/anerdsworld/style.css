@@ -1,0 +1,102 @@
+/*
+Theme Name: 	anerdsworld
+Theme URI: 		http://themes.muffingroup.com/betheme
+Author: 		Muffin group
+Author URI: 	http://muffingroup.com
+Description:	Child Theme for Betheme - Premium WordPress Theme
+Template:		betheme
+Version: 		1.5
+*/
+
+/* Theme customization starts here
+-------------------------------------------------------------- */
+
+body:not(.template-slider) #Header_wrapper {
+background-size: cover;
+}
+
+body:not(.template-slider) #Header {
+height: 100vh;
+}
+
+h2 {
+  text-transform: uppercase;
+}
+
+.image_frame .image_wrapper img {
+-webkit-transition: all 0.020s ease-in-out!important;
+  -moz-transition: all 0.020s ease-in-out!important;
+  -o-transition: all 0.020s ease-in-out!important;
+  transition: all 0.020s ease-in-out!important;
+}
+
+#home-content {
+  padding-top: 58px!important;
+  margin-top: -58px;
+}
+
+.desc h4 a {
+  text-transform: uppercase;
+}
+
+  blockquote {
+  font-size: 15px!important;
+  line-height: 25px!important;
+  font-family: roboto!important;
+  display: block;
+  height: auto;
+  margin: 0 0 0 0!important;
+  top: 0!important;
+  position: relative;
+  background: none!important;
+}
+
+blockquote:after {
+  content: "";
+  width: 0!important;
+  height: 0!important;
+  background: none!important;
+  position: absolute;
+  left: 0!important;
+  top: 0!important;
+}
+
+.one-third {
+  margin: 0 0% 0px!important;
+}
+
+.pricing-box .plan-header .price > span {
+  font-size: 45px;
+  line-height: 45px;
+  font-family: Roboto!important;
+  margin: 0 5px;
+}
+
+body:not(.template-slider) #Content {
+  padding-top: 0px!important;
+}
+
+.one.column_portfolio_grid li {
+  width: 20%!important;
+}
+
+@media (max-width: 499px) {
+.numberYo .image_wrapper{
+text-align: center;
+}
+  
+  div[aria-labelledby="ui-id-1"] img {
+  width: 65%;
+  }
+  
+  
+    div[aria-labelledby="ui-id-3"] img {
+  width: 60%;
+  }
+  
+    div[aria-labelledby="ui-id-4"] img {
+  width: 50%;
+  }
+}
+
+

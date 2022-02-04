@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+anerdsworld.com	TRUE	/	FALSE	1999999999	asp_transient_id	515e7cf8a203d2f0c0bf44391fd2215c
+.youtube.com	TRUE	/	FALSE	1999999999	GPS	1
+.youtube.com	TRUE	/	FALSE	1999999999	YSC	BMSKoXaBCWM
+.youtube.com	TRUE	/	FALSE	1999999999	VISITOR_INFO1_LIVE	mi17Tefb_Wk
+www.youtube.com	TRUE	/	FALSE	1999999999	SameSite	none
+anerdsworld.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+

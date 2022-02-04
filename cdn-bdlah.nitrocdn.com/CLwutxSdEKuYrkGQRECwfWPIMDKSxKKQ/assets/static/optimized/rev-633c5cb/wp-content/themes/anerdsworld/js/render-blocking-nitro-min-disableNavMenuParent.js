@@ -1,0 +1,1 @@
+var isMobile=jQuery(document).width()<481?true:false;if(isMobile){jQuery("#menu-item-17515 > a").click(function(e){e.preventDefault();jQuery("#menu-item-17515 .menu-toggle").click()});jQuery("#menu-item-18070 > a").click(function(e){e.preventDefault();jQuery("#menu-item-18070 .menu-toggle").click()})}
